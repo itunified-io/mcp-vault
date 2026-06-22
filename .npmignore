@@ -1,0 +1,14 @@
+src/
+tests/
+.env
+.env.*
+.git/
+.github/
+.claude/
+.mcpregistry_*
+*.key
+*.pem
+credentials*
+docs/superpowers/
+tsconfig.json
+vitest.config.*
